@@ -18,7 +18,7 @@ const Index = () => {
         </div>
         <div className={styles.page__contents__imageBox}></div>
       </div>
-      {/* 공통 푸터 UI 부분 */}
+      {/* 공통 푸터 UI 부분 **/}
     </div>
   );
 };
